@@ -25,3 +25,7 @@ react-native를 사용하여 날씨 정보를 알려주는 앱입니다.
  
  #### 아이콘 URL
 <https://expo.github.io/vector-icons/>
+
+
+ #### 날씨 api
+<https://openweathermap.org/>
