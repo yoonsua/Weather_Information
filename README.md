@@ -5,7 +5,7 @@ react-native를 사용하여 날씨 정보를 알려주는 앱입니다.
 ## Expo 설치 방법
 1. [Node.js](https://nodejs.org/ko/) 설치
 2. Expo-cli 설치
- >1) npm 실행
+ >1) cmd 실행
  >2) npm install expo-cli --global
 3. New Project 생성
  >- expo init myproject
